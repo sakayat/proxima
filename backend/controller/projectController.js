@@ -1,5 +1,5 @@
 const { default: mongoose } = require("mongoose");
-const Project = require("../models/projectModel");
+const Project = require("../models/projectModal");
 
 // create project
 
